@@ -6,4 +6,4 @@ transformers>=4.46.2
 datasets
 peft>=0.13.2
 accelerate>=1.1.1
-qwen-vl-utils>=0.8.0
+qwen-vl-utils>=0.0.8
