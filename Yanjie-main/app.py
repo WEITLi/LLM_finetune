@@ -72,4 +72,5 @@ def main():
     st.markdown("<style>body {background-color: #f2f3f4;}</style>", unsafe_allow_html=True)
 
 if __name__ == '__main__':
+    from streamlit_colab import main
     main()
